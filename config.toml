@@ -1,0 +1,46 @@
+baseurl = "http://walecain.github.io/"
+languageCode = "en-us"
+title = "Wale Cain"
+theme = "greyshade"
+
+[author]
+name = "Wale Cain"
+# email will use for gravatar
+email = "jonathanocain@outlook.com"
+
+[taxonomies]
+category = "categories"
+
+[params]
+# site description, will show under navigation
+description = ""
+
+# social links
+facebook_user = ""
+googleplus_user = ""
+twitter_user = "walesinterest"
+github_user = "walecain"
+coderwall_user = ""
+stackoverflow_user = ""
+stackoverflow_user_id = ""
+linkedin_user = "jonathanomowalecain"
+pinterest_user = ""
+delicious_user = ""
+pinboard_user = ""
+quora_user = ""
+instagram_user = ""
+behance_user = ""
+douban_user = ""
+
+# share links
+facebook_like = true
+twitter_tweet_button = true
+google_plus_one = "true"
+addthis_profile_id = ""
+
+# Disqus Comments
+disqus_short_name = ""
+disqus_show_comment_count = false
+
+# google analytics
+google_analytics_tracking_id = ""
